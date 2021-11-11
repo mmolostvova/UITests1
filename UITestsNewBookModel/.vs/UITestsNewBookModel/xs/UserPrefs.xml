@@ -1,0 +1,51 @@
+﻿<Properties StartupConfiguration="{B39BD057-F3B7-40E5-A358-1AA6513391DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UITestsNewBookModel/UITests/ValidSetting.cs">
+    <Files>
+      <File FileName="UITestsNewBookModel/POM/AccountSetting.cs" Line="225" Column="12" />
+      <File FileName="UITestsNewBookModel/UITests/ValidSetting.cs" Line="137" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UITestsNewBookModel" expanded="True">
+            <Node name="UITestsNewBookModel" expanded="True">
+              <Node name="POM" expanded="True" />
+              <Node name="UITests" expanded="True">
+                <Node name="ValidSetting.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="UITestsNewBookModel" expanded="True">
+            <Node name="UITestsNewBookModel" expanded="True">
+              <Node name="LogIn.UITest" expanded="True">
+                <Node name="Tests" expanded="True" />
+              </Node>
+              <Node name="LogOut.UITest" expanded="True">
+                <Node name="TestsLogout" expanded="True" />
+              </Node>
+              <Node name="Registration.UITest" expanded="True">
+                <Node name="Registration" expanded="True" />
+              </Node>
+              <Node name="ValidSetting.UITest" expanded="True">
+                <Node name="ValidSetting" expanded="True">
+                  <Node name="CheckValidAddACard" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.UITestsNewBookModel PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
